@@ -1,0 +1,21 @@
+# Ignore these files
+.jupyter
+
+.ipython
+.local
+
+.DS_Store
+.cache
+*/.DS_Store/*
+*/.cache/*
+
+*/__init__.pyc/*
+*/database_helper.pyc/*
+
+*/data/*
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+.Trash-1000
+*/.Trash-1000/*
