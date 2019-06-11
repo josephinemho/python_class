@@ -8,7 +8,7 @@
 * Jupyter server (explore dockerfile, pulled layers)
 
 
-## Class 2: Exploring data types
+## Class 2: Exploring variables & data types
 
 **Homework**
 * Finish [2.data_types_homework.ipynb](https://github.com/josephinemho/python_class/blob/master/2.data_types.ipynb) and review [2.variables.ipynb](https://github.com/josephinemho/python_class/blob/master/2.variables.ipynb)
