@@ -11,7 +11,7 @@
 ## Class 2: Exploring data types
 
 **Homework**
-* Go through 2.data_types_homework.ipynb (we will review this at our next lesson) 
+* Finish [2.data_types_homework.ipynb](https://github.com/josephinemho/python_class/blob/master/2.data_types.ipynb) and review [2.variables.ipynb](https://github.com/josephinemho/python_class/blob/master/2.variables.ipynb)
 
 **Resources**
 * [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes tons of example code.
