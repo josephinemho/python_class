@@ -11,7 +11,7 @@
 ## Class 2: Exploring variables & data types
 
 **Homework**
-* Finish [2.data_types_homework.ipynb](https://github.com/josephinemho/python_class/blob/master/2.data_types.ipynb) and review [2.variables.ipynb](https://github.com/josephinemho/python_class/blob/master/2.variables.ipynb)
+* Review [2.variables.ipynb](https://github.com/josephinemho/python_class/blob/master/2.variables.ipynb)
 
 **Resources**
 * [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes tons of example code.
@@ -20,3 +20,9 @@
 * [My code isn't working](http://www.tecoed.co.uk/uploads/1/4/2/4/14249012/624506_orig.png) is a great flowchart explaining how to debug Python errors.
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/) is Python's "classic" style guide, and is worth a read if you want to write readable code that is consistent with the rest of the Python community.
 * If you want to understand Python at a deeper level, Ned Batchelder's [Loop Like A Native](http://nedbatchelder.com/text/iter.html) and [Python Names and Values](http://nedbatchelder.com/text/names1.html) are excellent presentations.
+
+## Class 3: Foundations
+
+**Homework**
+* Review [3.foundations.ipynb](https://github.com/josephinemho/python_class/blob/master/3.foundations.ipynb)
+* Start Part 1 of [0.homework.ipynb](https://github.com/josephinemho/python_class/blob/master/0.homework.ipynb)
