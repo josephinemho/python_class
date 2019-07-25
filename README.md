@@ -1,10 +1,13 @@
-# python_class repository
+# python_class Syllabus
 
 ## Class 1: Setting up your environment 
+* Access our class server `python-class` with SSH key (securely sent over via https://onetimesecret.com/)
+ * Discuss secret and public keys
 * Docker (break down commands and flags)
 * Github (add keys, create your own repository to push your work to)
- * Pull from my repository, push to your repository
+ * Pull from **my** repository, push to **your** repository
  * Duplicate each notebook and add your name to the end of it (to avoid merge conflicts)
+ * The `.gitignore` file
 * Jupyter server (explore dockerfile, pulled layers)
 
 
