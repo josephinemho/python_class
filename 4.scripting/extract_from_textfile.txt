@@ -1,0 +1,885 @@
+                       Node Name: ANTMECH2
+
+                         Platform: WinNT
+
+                  Client OS Level: 6.01
+
+                   Client Version: Version 6, release 4, level 0.0
+
+more...   (<ENTER> to continue, 'C' to cancel)
+
+ 
+
+               Policy Domain Name: STANDARD-JPL
+
+            Last Access Date/Time: 07/30/2019 10:38:30
+
+           Days Since Last Access: <1
+
+           Password Set Date/Time: 11/12/2015 09:23:35
+
+          Days Since Password Set: 1,356
+
+            Invalid Sign-on Count: 0
+
+                          Locked?: No
+
+                          Contact: Neil.E.Bucknam@jpl.nasa.gov
+
+                      Compression: Client
+
+          Archive Delete Allowed?: Yes
+
+           Backup Delete Allowed?: Yes
+
+           Registration Date/Time: 06/17/2013 15:34:58
+
+        Registering Administrator: TONGWONG
+
+   Last Communication Method Used: Tcp/Ip
+
+      Bytes Received Last Session: 5,508.55 M
+
+          Bytes Sent Last Session: 575.48 M
+
+         Duration of Last Session: 1,225.40
+
+      Pct. Idle Wait Last Session: 66.56
+
+     Pct. Comm. Wait Last Session: 0.14
+
+     Pct. Media Wait Last Session: 0.00
+
+                        Optionset:
+
+                              URL:
+
+                        Node Type: Client
+
+       Password Expiration Period: 0 Day(s)
+
+                Keep Mount Point?: No
+
+     Maximum Mount Points Allowed: 2
+
+           Auto Filespace Rename : No
+
+                Validate Protocol: No
+
+                      TCP/IP Name: ANTMECH2-NEW
+
+                   TCP/IP Address: 128.149.126.120
+
+               Globally Unique ID: 50.96.eb.60.69.e6.11.e4.ac.07.00.50.56.92.00.61
+
+            Transaction Group Max: 0
+
+                  Data Write Path: ANY
+
+                   Data Read Path: ANY
+
+               Session Initiation: ClientOrServer
+
+               High-level Address:
+
+                Low-level Address:
+
+           Collocation Group Name:
+
+                 Proxynode Target:
+
+                  Proxynode Agent:
+
+                      Node Groups:
+
+                    Email Address:
+
+                    Deduplication: ServerOnly
+
+         Users allowed to back up: All
+
+                             Role: Server
+
+                    Role Override: UseReported
+
+                 Processor Vendor: Intel
+
+                  Processor Brand: Xeon
+
+                  Processor Type: 8
+
+more...   (<ENTER> to continue, 'C' to cancel)
+
+ 
+
+                  Processor Model: X6550
+
+                  Processor Count: 4
+
+                       Hypervisor: VMware
+
+                  API Application: No
+
+                       Scan Error: No
+
+                      MAC Address: 00:50:56:92:00:61
+
+                Replication State: None
+
+                 Replication Mode: None
+
+          Backup Replication Rule: DEFAULT
+
+         Archive Replication Rule: DEFAULT
+
+Space Management Replication Rule: DEFAULT
+
+                   Client OS Name: WIN:Windows Server 2008 R2
+
+    Client Processor Architecture: x64
+
+        Client Products Installed: BA
+
+            Client Target Version: (?)
+
+                   Authentication: Local
+
+                     SSL Required: Default
+
+ 
+
+                        Node Name: CAE-LIC02
+
+                         Platform: WinNT
+
+                  Client OS Level: 6.01
+
+                   Client Version: Version 6, release 4, level 0.0
+
+               Policy Domain Name: STANDARD-JPL
+
+            Last Access Date/Time: 07/30/2019 15:29:25
+
+           Days Since Last Access: <1
+
+           Password Set Date/Time: 08/24/2016 09:51:16
+
+          Days Since Password Set: 1,070
+
+            Invalid Sign-on Count: 0
+
+                          Locked?: No
+
+                          Contact: chad.d.harris@jpl.nasa.gov
+
+                      Compression: Client
+
+          Archive Delete Allowed?: Yes
+
+           Backup Delete Allowed?: Yes
+
+           Registration Date/Time: 04/24/2013 15:07:54
+
+        Registering Administrator: ADMIN
+
+   Last Communication Method Used: Tcp/Ip
+
+      Bytes Received Last Session: 50,704.07 M
+
+          Bytes Sent Last Session: 269.24 M
+
+         Duration of Last Session: 6,408.34
+
+     Pct. Idle Wait Last Session: 82.89
+
+     Pct. Comm. Wait Last Session: 1.70
+
+     Pct. Media Wait Last Session: 0.00
+
+                        Optionset:
+
+                              URL:
+
+                        Node Type: Client
+
+       Password Expiration Period: 0 Day(s)
+
+                Keep Mount Point?: No
+
+     Maximum Mount Points Allowed: 2
+
+           Auto Filespace Rename : No
+
+more...   (<ENTER> to continue, 'C' to cancel)
+
+ 
+
+                Validate Protocol: No
+
+                      TCP/IP Name: CAE-LIC02
+
+                   TCP/IP Address: 128.149.24.160
+
+               Globally Unique ID: 28.c5.f9.80.4a.7f.11.e0.a1.0f.00.50.56.86.57.23
+
+            Transaction Group Max: 0
+
+                  Data Write Path: ANY
+
+                   Data Read Path: ANY
+
+               Session Initiation: ClientOrServer
+
+               High-level Address:
+
+                Low-level Address:
+
+           Collocation Group Name:
+
+                 Proxynode Target:
+
+                  Proxynode Agent:
+
+                      Node Groups:
+
+                    Email Address:
+
+                    Deduplication: ServerOnly
+
+         Users allowed to back up: All
+
+                             Role: Client
+
+                    Role Override: UseReported
+
+                 Processor Vendor: Intel
+
+                  Processor Brand: Xeon
+
+                   Processor Type: 1
+
+                  Processor Model: 2.60GHz
+
+                  Processor Count: 2
+
+                       Hypervisor: VMware
+
+                  API Application: No
+
+                       Scan Error: No
+
+                      MAC Address: 00:50:56:86:57:23
+
+                Replication State: None
+
+                 Replication Mode: None
+
+          Backup Replication Rule: DEFAULT
+
+         Archive Replication Rule: DEFAULT
+
+Space Management Replication Rule: DEFAULT
+
+                   Client OS Name: WIN:Windows 7
+
+    Client Processor Architecture: x64
+
+        Client Products Installed: BA
+
+            Client Target Version: (?)
+
+                   Authentication: Local
+
+                     SSL Required: Default
+
+ 
+
+                        Node Name: CAE-LMGR1
+
+                         Platform: SUN SOLARIS
+
+                  Client OS Level: 5.10
+
+                   Client Version: Version 6, release 4, level 0.0
+
+               Policy Domain Name: STANDARD-JPL
+
+            Last Access Date/Time: 07/30/2019 13:13:55
+
+           Days Since Last Access: <1
+
+           Password Set Date/Time: 11/11/2015 00:55:17
+
+          Days Since Password Set: 1,357
+
+more...   (<ENTER> to continue, 'C' to cancel)
+
+ 
+
+            Invalid Sign-on Count: 0
+
+                          Locked?: No
+
+                          Contact: Eric.A.Cassell@jpl.nasa.gov
+
+                      Compression: Client
+
+          Archive Delete Allowed?: Yes
+
+           Backup Delete Allowed?: Yes
+
+           Registration Date/Time: 05/24/2013 11:32:39
+
+        Registering Administrator: TONGWONG
+
+   Last Communication Method Used: Tcp/Ip
+
+      Bytes Received Last Session: 313.20 M
+
+          Bytes Sent Last Session: 55.92 M
+
+         Duration of Last Session: 318.02
+
+      Pct. Idle Wait Last Session: 11.38
+
+     Pct. Comm. Wait Last Session: 86.07
+
+     Pct. Media Wait Last Session: 0.00
+
+                        Optionset:
+
+                              URL:
+
+                        Node Type: Client
+
+       Password Expiration Period: 0 Day(s)
+
+                Keep Mount Point?: No
+
+     Maximum Mount Points Allowed: 2
+
+           Auto Filespace Rename : No
+
+                Validate Protocol: No
+
+                      TCP/IP Name: cae-lmgr1
+
+                   TCP/IP Address: 128.149.115.223
+
+               Globally Unique ID: bd.cd.13.38.7d.6c.11.de.bd.a0.89.4e.a0.5c.aa.77
+
+            Transaction Group Max: 0
+
+                  Data Write Path: ANY
+
+                   Data Read Path: ANY
+
+               Session Initiation: ClientOrServer
+
+               High-level Address:
+
+                Low-level Address:
+
+           Collocation Group Name:
+
+                 Proxynode Target:
+
+                  Proxynode Agent:
+
+                      Node Groups:
+
+                    Email Address:
+
+                    Deduplication: ServerOnly
+
+         Users allowed to back up: All
+
+                             Role: Server
+
+                    Role Override: UseReported
+
+                 Processor Vendor: SUN
+
+                  Processor Brand: UltraSPARC-IIIi
+
+                   Processor Type: 1
+
+                  Processor Model:
+
+                  Processor Count: 1
+
+                       Hypervisor:
+
+                  API Application: No
+
+                       Scan Error: No
+
+more...   (<ENTER> to continue, 'C' to cancel)
+
+ 
+
+                      MAC Address: 00:03:BA:06:3B:1C
+
+                Replication State: None
+
+                 Replication Mode: None
+
+          Backup Replication Rule: DEFAULT
+
+         Archive Replication Rule: DEFAULT
+
+Space Management Replication Rule: DEFAULT
+
+                   Client OS Name: SOL:Solaris
+
+    Client Processor Architecture: SPARC64
+
+        Client Products Installed: BA
+
+            Client Target Version: (?)
+
+                   Authentication: Local
+
+                     SSL Required: Default
+
+ 
+
+                        Node Name: CAE-LMGR2
+
+                         Platform: SUN SOLARIS
+
+                  Client OS Level: 5.10
+
+                   Client Version: Version 6, release 4, level 0.0
+
+               Policy Domain Name: STANDARD-JPL
+
+            Last Access Date/Time: 07/30/2019 12:58:05
+
+           Days Since Last Access: <1
+
+           Password Set Date/Time: 11/11/2015 13:05:46
+
+          Days Since Password Set: 1,357
+
+            Invalid Sign-on Count: 0
+
+                          Locked?: No
+
+                          Contact: Eric.A.Cassell@jpl.nasa.gov
+
+                      Compression: Client
+
+          Archive Delete Allowed?: Yes
+
+           Backup Delete Allowed?: Yes
+
+           Registration Date/Time: 05/24/2013 11:32:43
+
+        Registering Administrator: TONGWONG
+
+   Last Communication Method Used: Tcp/Ip
+
+      Bytes Received Last Session: 386.86 M
+
+          Bytes Sent Last Session: 45.36 M
+
+         Duration of Last Session: 278.10
+
+      Pct. Idle Wait Last Session: 4.21
+
+     Pct. Comm. Wait Last Session: 92.74
+
+     Pct. Media Wait Last Session: 0.00
+
+                        Optionset:
+
+                              URL:
+
+                        Node Type: Client
+
+       Password Expiration Period: 0 Day(s)
+
+                Keep Mount Point?: No
+
+     Maximum Mount Points Allowed: 2
+
+           Auto Filespace Rename : No
+
+                Validate Protocol: No
+
+                      TCP/IP Name: cae-lmgr2
+
+                   TCP/IP Address: 128.149.115.222
+
+               Globally Unique ID: c3.7a.9d.d4.7d.6f.11.de.b8.ae.89.4e.a0.5d.aa.77
+
+            Transaction Group Max: 0
+
+more...   (<ENTER> to continue, 'C' to cancel)
+
+ 
+
+ 
+
+                  Data Write Path: ANY
+
+                   Data Read Path: ANY
+
+               Session Initiation: ClientOrServer
+
+               High-level Address:
+
+                Low-level Address:
+
+           Collocation Group Name:
+
+                 Proxynode Target:
+
+                  Proxynode Agent:
+
+                      Node Groups:
+
+                    Email Address:
+
+                    Deduplication: ServerOnly
+
+         Users allowed to back up: All
+
+                             Role: Server
+
+                    Role Override: UseReported
+
+                 Processor Vendor: SUN
+
+                  Processor Brand: UltraSPARC-IIIi
+
+                   Processor Type: 1
+
+                  Processor Model:
+
+                  Processor Count: 1
+
+                       Hypervisor:
+
+                  API Application: No
+
+                       Scan Error: No
+
+                      MAC Address: 00:03:BA:05:18:50
+
+                Replication State: None
+
+                 Replication Mode: None
+
+          Backup Replication Rule: DEFAULT
+
+         Archive Replication Rule: DEFAULT
+
+Space Management Replication Rule: DEFAULT
+
+                   Client OS Name: SOL:Solaris
+
+    Client Processor Architecture: SPARC64
+
+        Client Products Installed: BA
+
+            Client Target Version: (?)
+
+                   Authentication: Local
+
+                     SSL Required: Default
+
+ 
+
+                        Node Name: CAE-LMGR3
+
+                         Platform: SUN SOLARIS
+
+                  Client OS Level: 5.10
+
+                   Client Version: Version 6, release 4, level 0.0
+
+               Policy Domain Name: STANDARD-JPL
+
+            Last Access Date/Time: 07/30/2019 13:07:34
+
+           Days Since Last Access: <1
+
+           Password Set Date/Time: 11/11/2015 01:35:49
+
+          Days Since Password Set: 1,357
+
+            Invalid Sign-on Count: 0
+
+                          Locked?: No
+
+                          Contact: Eric.A.Cassell@jpl.nasa.gov
+
+                      Compression: Client
+
+          Archive Delete Allowed?: Yes
+
+more...   (<ENTER> to continue, 'C' to cancel)
+
+           Backup Delete Allowed?: Yes
+
+           Registration Date/Time: 05/24/2013 11:32:44
+
+        Registering Administrator: TONGWONG
+
+   Last Communication Method Used: Tcp/Ip
+
+      Bytes Received Last Session: 34.05 M
+
+          Bytes Sent Last Session: 43.03 M
+
+         Duration of Last Session: 66.90
+
+      Pct. Idle Wait Last Session: 64.37
+
+     Pct. Comm. Wait Last Session: 33.65
+
+     Pct. Media Wait Last Session: 0.00
+
+                        Optionset:
+
+                              URL:
+
+                        Node Type: Client
+
+       Password Expiration Period: 0 Day(s)
+
+                Keep Mount Point?: No
+
+     Maximum Mount Points Allowed: 2
+
+           Auto Filespace Rename : No
+
+                Validate Protocol: No
+
+                      TCP/IP Name: cae-lmgr3
+
+                   TCP/IP Address: 128.149.113.6
+
+               Globally Unique ID: c1.89.5a.aa.7d.70.11.de.bf.17.89.4e.a0.61.aa.77
+
+            Transaction Group Max: 0
+
+                  Data Write Path: ANY
+
+                   Data Read Path: ANY
+
+               Session Initiation: ClientOrServer
+
+               High-level Address:
+
+                Low-level Address:
+
+           Collocation Group Name:
+
+                 Proxynode Target:
+
+                  Proxynode Agent:
+
+                      Node Groups:
+
+                    Email Address:
+
+                    Deduplication: ServerOnly
+
+         Users allowed to back up: All
+
+                             Role: Server
+
+                    Role Override: UseReported
+
+                 Processor Vendor: SUN
+
+                  Processor Brand: UltraSPARC-IIIi
+
+                   Processor Type: 1
+
+                  Processor Model:
+
+                  Processor Count: 1
+
+                       Hypervisor:
+
+                  API Application: No
+
+                       Scan Error: No
+
+                      MAC Address: 00:03:BA:06:00:C8
+
+                Replication State: None
+
+                 Replication Mode: None
+
+          Backup Replication Rule: DEFAULT
+
+         Archive Replication Rule: DEFAULT
+
+more...   (<ENTER> to continue, 'C' to cancel)
+
+ 
+
+Space Management Replication Rule: DEFAULT
+
+                   Client OS Name: SOL:Solaris
+
+    Client Processor Architecture: SPARC64
+
+        Client Products Installed: BA
+
+            Client Target Version: (?)
+
+                   Authentication: Local
+
+                     SSL Required: Default
+
+ 
+
+                        Node Name: CHPS-PROD-APP01
+
+                         Platform: WinNT
+
+                  Client OS Level: 6.01
+
+                   Client Version: Version 6, release 4, level 0.0
+
+               Policy Domain Name: STANDARD-JPL
+
+            Last Access Date/Time: 07/30/2019 13:46:31
+
+           Days Since Last Access: <1
+
+           Password Set Date/Time: 01/04/2016 01:53:23
+
+          Days Since Password Set: 1,303
+
+            Invalid Sign-on Count: 0
+
+                          Locked?: No
+
+                          Contact: Woltan.Y.Choi@jpl.nasa.gov
+
+                      Compression: Client
+
+          Archive Delete Allowed?: Yes
+
+           Backup Delete Allowed?: Yes
+
+           Registration Date/Time: 07/16/2013 11:25:46
+
+        Registering Administrator: TONGWONG
+
+   Last Communication Method Used: Tcp/Ip
+
+      Bytes Received Last Session: 5,079.66 M
+
+          Bytes Sent Last Session: 52.76 M
+
+         Duration of Last Session: 68.84
+
+      Pct. Idle Wait Last Session: 0.31
+
+     Pct. Comm. Wait Last Session: 3.36
+
+     Pct. Media Wait Last Session: 0.00
+
+                        Optionset:
+
+                              URL:
+
+                        Node Type: Client
+
+       Password Expiration Period: 0 Day(s)
+
+                Keep Mount Point?: No
+
+     Maximum Mount Points Allowed: 2
+
+           Auto Filespace Rename : No
+
+                Validate Protocol: No
+
+                      TCP/IP Name: CHPS-PROD-APP01
+
+                   TCP/IP Address: 128.149.126.82
+
+               Globally Unique ID: e5.41.2c.20.1a.b2.11.e1.8a.97.00.50.56.86.10.2f
+
+            Transaction Group Max: 0
+
+                  Data Write Path: ANY
+
+                   Data Read Path: ANY
+
+               Session Initiation: ClientOrServer
+
+               High-level Address:
+
+                Low-level Address:
+
+more...   (<ENTER> to continue, 'C' to cancel)
+
+ 
+
+           Collocation Group Name:
+
+                 Proxynode Target:
+
+                  Proxynode Agent:
+
+                      Node Groups:
+
+                    Email Address:
+
+                    Deduplication: ServerOnly
+
+         Users allowed to back up: All
+
+                             Role: Server
+
+                    Role Override: UseReported
+
+                 Processor Vendor: Intel
+
+                  Processor Brand: Xeon
+
+                   Processor Type: 1
+
+                  Processor Model: 2860
+
+                  Processor Count: 4
+
+                       Hypervisor: VMware
+
+                  API Application: No
+
+                       Scan Error: No
+
+                      MAC Address: 00:50:56:86:10:2F
+
+                Replication State: None
+
+                 Replication Mode: None
+
+          Backup Replication Rule: DEFAULT
+
+         Archive Replication Rule: DEFAULT
+
+Space Management Replication Rule: DEFAULT
+
+                   Client OS Name: WIN:Windows Server 2008 R2
+
+    Client Processor Architecture: x64
+
+        Client Products Installed: BA
+
+            Client Target Version: (?)
+
+                   Authentication: Local
+
+                     SSL Required: Default
