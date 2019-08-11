@@ -1,0 +1,5 @@
+CONGRATULATIONS! 
+
+You successfully did a "git pull origin master" and pulled this file from the class ORIGIN repository!
+
+You are on your way to becoming a Git Master! 
