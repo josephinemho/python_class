@@ -26,6 +26,7 @@
 * [My code isn't working](http://www.tecoed.co.uk/uploads/1/4/2/4/14249012/624506_orig.png) is a great flowchart explaining how to debug Python errors.
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/) is Python's "classic" style guide, and is worth a read if you want to write readable code that is consistent with the rest of the Python community.
 * If you want to understand Python at a deeper level, Ned Batchelder's [Loop Like A Native](http://nedbatchelder.com/text/iter.html) and [Python Names and Values](http://nedbatchelder.com/text/names1.html) are excellent presentations.
+* [The 35 Words You Need to Python](https://yawpitchroll.com/posts/the-35-words-you-need-to-python/) - this article goes through python's 35 keywords with very good exposition. 
 
 ## Class 3: Foundations
 
