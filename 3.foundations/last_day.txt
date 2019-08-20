@@ -1,0 +1,7 @@
+YOU DID IT!!!
+
+Congratulations for making it through the course! Not only did you get your hands dirty with programming in PYTHON, but you also learned how to set up your environment using DOCKER and GITHUB. How? You used Docker to pull the jupyter/minimal-notebook IMAGE from the internet, then built many CONTAINERS from that image, so that we each had our very own environment to work in! 
+
+After the class, I will finish up 4.setting_up_aws, which will provide instructions on setting up your very own server on Amazon Web Services (AWS). Then, I would like you to repeat what we've learned in this class and set up your very own environment, hosted on your very own server (instead of our python-class server). These are the keys to getting started in your Python programming career (and also opens the door to DevOps, CloudOps, etc.) if you continue practicing regularly and making use of all the great resources available online. 
+
+Keep up the great work and practice regularly and consistently! <3 Josephine
